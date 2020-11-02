@@ -1,7 +1,7 @@
 #include "headers.h"
 
-char Accumulator_Register [26]; //26bit - Memory address: 0c000
-char Result_Register      [26]; //26bit - Memory address: 0c001
+string Accumulator_Register; //26bit - Memory address: 0c000
+string Result_Register     ; //26bit - Memory address: 0c001
 
 int main()
 {
