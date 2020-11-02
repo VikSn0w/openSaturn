@@ -46,8 +46,8 @@ struct sector
     }
 };
 
-void RESET(char REGISTER[]);
-void PrintRegister(char REGISTER[]);
+void RESET(string REGISTER);
+void RESET(string REGISTER);
 
 void DataLoad();
 bool DataCheck(string Data);

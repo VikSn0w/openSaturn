@@ -1,5 +1,5 @@
-void RESET(char REGISTER[]) {for(int i = 0; i < 26; REGISTER[i] = '0', i++);}
-void PrintRegister(char REGISTER[]){for(int i = 0; i < 26; cout<<REGISTER[i], i++);}
+void RESET(string REGISTER) {for(int i = 0; i < 26; REGISTER[i] = '0', i++);}
+void PrintRegister(string REGISTER){cout << REGISTER;}
 
 int OctalToBinary(int octalNum)
 {
