@@ -3,7 +3,7 @@
 Open-source emulator of the LVDC processor of the Saturn V.
 
 
-For more informations about the LDVC, check the Wikipedia page: https://en.wikipedia.org/wiki/Launch_Vehicle_Digital_Computer
+For more informations about the LVDC, check the Wikipedia page: https://en.wikipedia.org/wiki/Launch_Vehicle_Digital_Computer
 
 ---
 ## Alpha 1/1 (0.0.1/1)
