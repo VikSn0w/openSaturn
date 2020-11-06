@@ -15,7 +15,7 @@ For more informations about the LVDC, check the Wikipedia page: https://en.wikip
   * Set (Logic model still under development)
   
   ##### Special instructions:
-  These instructions use 2 bits from the address to from the call code
+  These instructions use 2 bits from the address of the call code
   * **SHR** - 01 1110 (0cXX1 / 0cXX5)
   * **CDS** - x0 1110 (0cXX0 / 0cXX2 / 0cXX4 / 0cXX6)
   * **EXM** - 11 1110 (0cXX3 / 0cXX7)
